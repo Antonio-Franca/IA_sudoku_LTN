@@ -77,7 +77,7 @@ O notebook está organizado de forma sequencial e modular:
 
 1.  **Clone o Repositório ou Baixe o Notebook**:
     ```bash
-    git clone https://github.com/seu-usuario/seu-repositorio.git
+    git clone https://github.com/Antonio-Franca/IA_sudoku_LTN.git
     ```
 2.  **Abra no Google Colab**:
       - Acesse [colab.research.google.com](https://colab.research.google.com).
